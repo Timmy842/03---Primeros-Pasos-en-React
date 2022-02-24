@@ -5,8 +5,6 @@ import PropTypes from 'prop-types';
 // Functional Components
 const PrimeraApp = ( { saludo, subtitulo } ) => {
 
-
-    
     return (
         <>
             <h1> { saludo } </h1>
